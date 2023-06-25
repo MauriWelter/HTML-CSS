@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+    background-color: rgba(246, 250, 249, 0.596);}
+
+h1{
+    color: blueviolet;
+}
+/*usando id*/
+h1#primeiro{
+    text-align: center; color: rgb(64, 1, 180); 
+}
+h2{
+    color: brown;
+}
+h3{
+    color: darkgoldenrod;
+}
+
+/* usando class*/
+.basico{ color: blue;
+
+}
+.intermediario{ color: rgb(12, 128, 64);
+
+}
+.avancado{
+    color: red;
+
+}
+.destaque{
+    background-color: rgba(167, 97, 7, 0.76);}
